@@ -1,0 +1,8 @@
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloUI\bin\Debug\OthelloUI.exe
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloUI\bin\Debug\OthelloUI.pdb
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloUI\obj\Debug\OthelloUI.csproj.AssemblyReference.cache
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloUI\obj\Debug\OthelloUI.FormOthelloSettings.resources
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloUI\obj\Debug\OthelloUI.csproj.GenerateResource.cache
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloUI\obj\Debug\OthelloUI.csproj.CoreCompileInputs.cache
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloUI\obj\Debug\OthelloUI.exe
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloUI\obj\Debug\OthelloUI.pdb

@@ -1,0 +1,6 @@
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloLogic\bin\Debug\OthelloLogic.dll
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloLogic\bin\Debug\OthelloLogic.pdb
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloLogic\obj\Debug\OthelloLogic.csproj.AssemblyReference.cache
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloLogic\obj\Debug\OthelloLogic.csproj.CoreCompileInputs.cache
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloLogic\obj\Debug\OthelloLogic.dll
+C:\MyProjectsC#\C24 Ex05 MichalHadad 312147440 ShayShuv 206842585\OthelloLogic\obj\Debug\OthelloLogic.pdb
