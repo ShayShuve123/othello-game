@@ -1,6 +1,6 @@
 # Othello Game Application
 
-![Othello Game Screenshot](path/to/screenshot.png)
+![Othello Game Screenshot](![otello](https://github.com/user-attachments/assets/18e77014-66ab-4d4c-827f-8149f28e8a29))
 
 ## Description
 
