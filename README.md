@@ -1,7 +1,6 @@
 # Othello Game Application
 
-![Othello Game Screenshot](![otello](https://github.com/user-attachments/assets/18e77014-66ab-4d4c-827f-8149f28e8a29))
-![otello](https://github.com/user-attachments/assets/10f4533a-7d86-49d4-a3bb-243f6a911e77)
+![Othello Game Screenshot](https://github.com/user-attachments/assets/10f4533a-7d86-49d4-a3bb-243f6a911e77)
 
 ## Description
 
