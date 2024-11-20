@@ -14,6 +14,7 @@ Features an intelligent computer opponent that optimizes move selection.
 - Dynamic board size selection
 - Intelligent AI opponent
 - Real-time game status and score tracking
+- - Highlights valid moves for the current player
 
 ## Technologies & Tools
 
