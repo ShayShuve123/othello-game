@@ -4,11 +4,13 @@
 
 ## Description
 
-An interactive Othello game developed using **C#** and **Windows Forms**. Utilizes object-oriented programming with inheritance and event-driven programming to manage game logic and user interactions. Features an intelligent computer opponent that optimizes move selection.
+An interactive Othello game developed using **C#** and **Windows Forms**.
+Utilizes object-oriented programming with inheritance and event-driven programming to manage game logic and user interactions.
+Features an intelligent computer opponent that optimizes move selection.
 
 ## Features
 
-- Two-player and single-player modes
+- Two players or playing against computer
 - Dynamic board size selection
 - Intelligent AI opponent
 - Real-time game status and score tracking
