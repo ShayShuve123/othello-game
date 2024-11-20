@@ -18,9 +18,9 @@ namespace Ex05.OthelloUI
             r_BoardSize = i_BoardSize;
             r_PlayAgainstFriend = i_PlayAgainstFriend;
             m_GameLogic = new GameLogic(new OthelloBoard(r_BoardSize), r_PlayAgainstFriend);
-
             m_GameLogic.GameOver += GameLogic_GameOver;
-
+            this.ShowIcon = false;
+            
             InitializeComponent();
             InitializeBoard();
         }
