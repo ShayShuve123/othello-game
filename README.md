@@ -22,10 +22,3 @@ Features an intelligent computer opponent that optimizes move selection.
 ## Demo
 
 [![Watch the game in action](https://drive.google.com/thumbnail?id=1hDyzmLHcLvUdbY_WbIBFBXrmECBR7FX7)](https://drive.google.com/file/d/1hDyzmLHcLvUdbY_WbIBFBXrmECBR7FX7/view?usp=sharing)
-
-## Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/OthelloGame.git
