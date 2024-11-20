@@ -18,6 +18,7 @@ namespace Ex05.OthelloUI
             this.Size = new System.Drawing.Size(400, 200);
             this.BackColor = System.Drawing.Color.LightGray;
             this.StartPosition = FormStartPosition.CenterScreen;
+            this.ShowIcon = false;
         }
 
         private void InitializeComponent()
