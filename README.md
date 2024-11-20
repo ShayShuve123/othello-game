@@ -21,7 +21,7 @@ Features an intelligent computer opponent that optimizes move selection.
 
 ## Demo
 
-[![Watch the game in action](path/to/video-thumbnail.png)]([[path/to/demo-video.mp4](https://drive.google.com/file/d/1hDyzmLHcLvUdbY_WbIBFBXrmECBR7FX7/view?usp=drive_link)](https://drive.google.com/file/d/1hDyzmLHcLvUdbY_WbIBFBXrmECBR7FX7/view?usp=drive_link))
+[![Watch the game in action](https://drive.google.com/file/d/1hDyzmLHcLvUdbY_WbIBFBXrmECBR7FX7/view?usp=drive_link)
 
 ## Installation
 
