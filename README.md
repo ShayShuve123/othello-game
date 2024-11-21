@@ -20,6 +20,7 @@ Features an intelligent computer opponent that optimizes move selection.
 
 **C#**, **.NET Framework**, **Windows Forms**, **OOP**, **Inheritance**, **Event-Driven Programming**
 
+
 ## Video Demonstration
 
 [![Watch the game in action](https://drive.google.com/thumbnail?id=1hDyzmLHcLvUdbY_WbIBFBXrmECBR7FX7)](https://drive.google.com/file/d/1hDyzmLHcLvUdbY_WbIBFBXrmECBR7FX7/view?usp=sharing)
